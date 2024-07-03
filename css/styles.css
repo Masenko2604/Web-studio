@@ -704,7 +704,6 @@ screen and (min-resolution: 2dppx) {}
 
 .team-card-container {
   display: flex;
-  padding-top: 96px;
   padding-bottom: 96px;
   flex-direction: column;
   justify-content: center;
@@ -719,7 +718,7 @@ screen and (min-resolution: 2dppx) {}
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  padding-bottom: 72px;
+  padding-bottom: 15px;
 }
 
 .team-list {
