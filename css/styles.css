@@ -920,7 +920,7 @@ screen and (min-resolution: 2dppx) {}
 
 /* Footer */
 .footer-finish {
-  background-color: #2e2f42;
+  background-color: #17293f;
   padding: 96px 0;
 }
 
@@ -947,7 +947,7 @@ screen and (min-resolution: 2dppx) {}
   text-transform: uppercase;
   list-style: none;
   line-height: 1.17;
-  background-color: #2e2f42;
+  background-color: #17293f;
   display: block;
   text-align: center;
 }
